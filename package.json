@@ -1,0 +1,23 @@
+{
+  "name": "lab-node-express-getting-started",
+  "version": "1.0.0",
+  "description": "![Image description](https://i1.faceprep.in/ProGrad/prograd-logo.png)\r # PROGRAD LABS | EXPRESS | GETTING STARTED",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohit-banik/lab-node-express-getting-started.git"
+  },
+  "author": "Rohit Banik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohit-banik/lab-node-express-getting-started/issues"
+  },
+  "homepage": "https://github.com/rohit-banik/lab-node-express-getting-started#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
